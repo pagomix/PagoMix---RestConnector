@@ -1,1 +1,1 @@
-# PagoMix---RestConnector
+# PagoMix-RestConnector
