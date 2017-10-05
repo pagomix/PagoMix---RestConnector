@@ -1,0 +1,1 @@
+insert into ventas values (:id_tran,:fecha,:json_prod,:importe,:iva,:tipo_factura,:nro_factura,:cae,:medio_pago,:xml_prod)
