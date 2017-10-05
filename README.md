@@ -22,4 +22,5 @@ Instalacion
 
 Proceso de Configuracion
 
-<img />
+1) Inicio de Aplicación
+![Alt text](https://github.com/pagomix/PagoMix-RestConnector/blob/master/ScreeShoots/inicio.png?raw=true "Optional Title")
