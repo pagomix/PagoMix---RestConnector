@@ -18,7 +18,7 @@ Instalacion
 
 1) Clonar Repositorio o Descargar Archivo Zip
 2) Crear una Carpeta que va a contener los archivos necesarios para el funcionamiento del servicio.
-3) No se requiere proceso de Instalacion, el archivo PagoMixWinServer.exe puede ser ejecutado en forma directa.
+3) No se requiere proceso de Instalacion, el archivo <b>PagoMixWinServer.exe</b> puede ser ejecutado en forma directa.
 
 Proceso de Configuracion
 
