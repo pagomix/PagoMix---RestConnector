@@ -22,5 +22,6 @@ Instalacion
 
 Proceso de Configuracion
 
-1) Inicio de Aplicación
+1) Inicio de Aplicación , solo se presenta la app, y el usuario debe prsionar el boton Ingresar.
+
 ![Alt text](https://github.com/pagomix/PagoMix-RestConnector/blob/master/ScreeShoots/inicio.png?raw=true "Optional Title")
