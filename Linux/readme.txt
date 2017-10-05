@@ -1,0 +1,1 @@
+Pronto estara disponible la version para Linux.
